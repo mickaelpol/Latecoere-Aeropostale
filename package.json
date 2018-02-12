@@ -1,0 +1,23 @@
+{
+  "name": "latecoere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/mystiick/LatecoereAeropostale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mystiick/LatecoereAeropostale/issues"
+  },
+  "homepage": "https://gitlab.com/mystiick/LatecoereAeropostale#README",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Cabin";
+    src: url('../font/cabin/Cabin-Bold.ttf')format('truetype'),
+        url('../font/cabin/Cabin-BoldItalic.ttf')format('truetype'),
+        url('../font/cabin/Cabin-Italic.ttf')format('truetype'),
+        url('../font/cabin/Cabin-Medium.ttf')format('truetype'),
+        url('../font/cabin/Cabin-MediumItalic.ttf')format('truetype'),
+        url('../font/cabin/Cabin-Regular.ttf')format('truetype'),
+        url('../font/cabin/Cabin-SemiBold.ttf')format('truetype'),
+        url('../font/cabin/Cabin-SemiBoldItalic.ttf')format('truetype');
+}
+
+@font-face {
+    font-family: "Droid";
+    src: url('../droidsans/DroidSans-bold.ttf')format('truetype'),
+        url('../droidsans/DroidSans.ttf')format('truetype');
+}

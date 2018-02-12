@@ -1,0 +1,64 @@
+
+/*=============================================
+=            Block des marge top            =
+=============================================*/
+
+.mt40 {
+    margin-top: 40%;
+}
+
+.mt30 {
+    margin-top: 30%;
+}
+
+.mt20 {
+    margin-top: 20%;
+}
+
+.mt10 {
+    margin-top: 10%;
+}
+
+.mt5 {
+    margin-top: 5%;
+}
+
+.mt2 {
+    margin-top: 2%;
+}
+
+/*=====  End of Block des marge top  ======*/
+
+
+
+
+/*=============================================
+=            Block des marge bottom            =
+=============================================*/
+
+.mb40 {
+    margin-bottom: 40%;
+}
+
+.mb30 {
+    margin-bottom: 30%;
+}
+
+.mb20 {
+    margin-bottom: 20%;
+}
+
+.mb10 {
+    margin-bottom: 10%;
+}
+
+.mb5 {
+    margin-bottom: 5%;
+}
+
+.mb2 {
+    margin-bottom: 2%;
+}
+
+/*=====  End of Block des marge bottom  ======*/
+
